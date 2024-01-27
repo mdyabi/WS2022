@@ -4,7 +4,7 @@ The objective of this lab exercise is to guide participants through the process 
 
 ## Prerequisites:
 
-1. Two or more Windows Server 2022 machines: CL1-LAB and CL2-LAB.
+1. Two Windows Server 2022 machines: CL1-LAB and CL2-LAB.
 2. A domain controller (DC-LAB) for Active Directory and DNS services.
 3. Network connectivity between the servers.
 4. Sufficient storage resources on each node.
